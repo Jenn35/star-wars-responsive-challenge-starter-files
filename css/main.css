@@ -1,0 +1,29 @@
+body {
+	font-size: 16px;
+}
+
+header{
+	background-color: orange;
+	height: 80px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+
+}
+
+.header-content {
+	text-align: left;
+}
+
+main {
+	padding-top: 60px;
+}
+
+.main-row {
+	margin-bottom: 20px;
+}
+
+.image-container {
+	height: 400px;
+	text-align: center;
+}
